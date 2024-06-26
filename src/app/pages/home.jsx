@@ -233,7 +233,7 @@ const Home = () => {
       <div>
     <Image src={Quote} />
     </div>
-    <p className={`text-2xl font-semibold leading-relaxed`}>"Flowbite is just awesome. It contains tons of predesigned <br /> components and pages starting from login screen to complex <br /> dashboard. Perfect choice for your next SaaS application."</p>
+    <p className={`text-2xl font-semibold leading-relaxed`}>&quot;Flowbite is just awesome. It contains tons of predesigned <br /> components and pages starting from login screen to complex <br /> dashboard. Perfect choice for your next SaaS application.&quot;</p>
     <div className={`flex gap-2`}>
       <div>
     <Image src={Avatar}/>
